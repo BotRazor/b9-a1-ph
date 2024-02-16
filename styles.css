@@ -125,3 +125,12 @@
   width: 360px;
   margin: 32px;
 }
+/* newsletter portion  */
+.newsletter-container{
+  background: rgb(243, 210, 221);
+  margin: 100px 300px;
+  justify-content: center;
+  text-align: center;
+  padding: 100px;
+  border-radius: 16px;
+}
