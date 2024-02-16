@@ -12,8 +12,9 @@
 }
 .banner {
   background-image: url(resources/Banner\ Image.png);
-  margin: 0px 100px;
+  margin: 0px 300px;
   border-radius: 16px;
+  background-repeat: no-repeat;
 }
 .banner-line1 {
   font-weight: 400;
@@ -45,7 +46,7 @@
 .party-container {
   background-image: url(resources/Vectorrr.png);
   background-repeat: no-repeat;
-  margin: 0px 100px;
+  margin: 0px 300px;
   border-radius: 16px;
   display: flex;
   justify-content: space-around;
@@ -91,7 +92,7 @@
 
 /* coming soon portion */
 .coming-soon-container {
-  margin: 0px 100px;
+  margin: 0px 300px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -113,7 +114,7 @@
 }
 /* portfolio portion  */
 .portfolio-container {
-  margin: 0px 100px;
+  margin: 0px 300px;
   margin-top: 150px;
 }
 
