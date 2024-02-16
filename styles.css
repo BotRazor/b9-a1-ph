@@ -4,6 +4,8 @@
   font-style: normal;
 }
 
+/* Banner portion */
+
 .banner-info {
   background: rgba(11, 2, 27, 0.384);
   height: 600px;
@@ -11,6 +13,7 @@
 .banner {
   background-image: url(resources/Banner\ Image.png);
   margin: 0px 100px;
+  border-radius: 16px;
 }
 .banner-line1 {
   font-weight: 400;
@@ -24,4 +27,15 @@
   font-size: 60px;
   color: rgb(255, 255, 255);
   text-align: center;
+}
+
+/* 65% portion */
+.all-categories {
+  text-align: center;
+  padding: 50px;
+}
+.discount {
+  color: rgb(255, 0, 0);
+  font-size: 70px;
+  font-weight: 700;
 }
