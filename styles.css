@@ -126,11 +126,33 @@
   margin: 32px;
 }
 /* newsletter portion  */
-.newsletter-container{
+.newsletter-container {
   background: rgb(243, 210, 221);
   margin: 100px 300px;
   justify-content: center;
   text-align: center;
   padding: 100px;
   border-radius: 16px;
+}
+
+/* footer portion  */
+.footer-banner {
+  background: rgb(7, 2, 17);
+  padding: 150px;
+}
+.footer-info {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.social-media {
+  display: flex;
+  justify-content: center;
+}
+.social-media img {
+  padding: 50px;
+}
+.copyrights {
+  display: flex;
+  justify-content: space-around;
 }
