@@ -39,3 +39,30 @@
   font-size: 70px;
   font-weight: 700;
 }
+
+/* Party portion */
+
+
+
+.party-container {
+  background-image: url(resources/Vectorrr.png);
+  background-repeat: no-repeat;
+  margin: 0px 100px;
+  border-radius: 16px;
+  display: flex;
+  justify-content: space-around;
+  height: 600px;
+  align-items: center;
+  margin-top: 120px;
+
+}
+.title-1 {
+  font-weight: 700;
+  font-size: 54px;
+  color: rgb(255, 255, 255);
+}
+.title-description {
+  font-weight: 400;
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.8);
+}
