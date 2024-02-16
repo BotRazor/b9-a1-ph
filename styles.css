@@ -104,3 +104,10 @@
 .right-one {
   text-align: center;
 }
+
+/* sale offer portion  */
+.sale-offer{
+  justify-content: center;
+  text-align: center;
+  margin-top: 150px;
+}
