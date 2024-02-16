@@ -88,3 +88,19 @@
   font-size: 20px;
   font-weight: 600;
 }
+
+/* coming soon portion */
+.coming-soon-container {
+  margin: 0px 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 200px;
+}
+
+.middle-one {
+  width: 40% ;
+}
+.right-one {
+  text-align: center;
+}
