@@ -1,0 +1,27 @@
+* {
+  font-family: "Merriweather", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.banner-info {
+  background: rgba(11, 2, 27, 0.384);
+  height: 600px;
+}
+.banner {
+  background-image: url(resources/Banner\ Image.png);
+  margin: 0px 100px;
+}
+.banner-line1 {
+  font-weight: 400;
+  font-size: 32px;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding-top: 150px;
+}
+.banner-line2 {
+  font-weight: 900;
+  font-size: 60px;
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
