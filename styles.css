@@ -99,15 +99,25 @@
 }
 
 .middle-one {
-  width: 40% ;
+  width: 40%;
 }
 .right-one {
   text-align: center;
 }
 
 /* sale offer portion  */
-.sale-offer{
+.sale-offer {
   justify-content: center;
   text-align: center;
   margin-top: 150px;
+}
+/* portfolio portion  */
+.portfolio-container {
+  margin: 0px 100px;
+  margin-top: 150px;
+}
+
+.portfolio-things img {
+  width: 360px;
+  margin: 32px;
 }
